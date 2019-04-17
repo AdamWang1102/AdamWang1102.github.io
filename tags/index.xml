@@ -1,23 +1,76 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KeepIt</title>
-    <link>https://example.com/tags/</link>
-    <description>Recent content on KeepIt</description>
+    <title>Adam&#39;s blogg</title>
+    <link>http://adamwang.io/tags/</link>
+    <description>Recent content on Adam&#39;s blogg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Apr 2019 16:25:50 +0800</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://adamwang.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Firstpost</title>
-      <link>https://example.com/2019/firstpost/</link>
+      <link>http://adamwang.io/2019/firstpost/</link>
       <pubDate>Tue, 16 Apr 2019 16:25:50 +0800</pubDate>
       
-      <guid>https://example.com/2019/firstpost/</guid>
+      <guid>http://adamwang.io/2019/firstpost/</guid>
       <description>我是第一篇博客，用来测试。嘿嘿嘿 修改一下.a</description>
+    </item>
+    
+  </channel>
+</rss>ink>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>http://adamwang.io/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>http://adamwang.io/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>http://adamwang.io/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>http://adamwang.io/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>http://adamwang.io/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://adamwang.io/tags/themes/</guid>
+      <description></description>
     </item>
     
   </channel>

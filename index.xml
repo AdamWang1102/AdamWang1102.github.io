@@ -1,8 +1,8 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>KeepIt on KeepIt</title>
-    <link>https://example.com/</link>
-    <description>Recent content in KeepIt on KeepIt</description>
+    <title>Adam&#39;s blogg on Adam&#39;s blogg</title>
+    <link>http://adamwang.io/</link>
+    <description>Recent content in Adam&#39;s blogg on Adam&#39;s blogg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Apr 2019 16:25:50 +0800</lastBuildDate>
@@ -10,10 +10,10 @@
     
     <item>
       <title>Creating a New Theme</title>
-      <link>https://example.com/2014/creating-a-new-theme/</link>
+      <link>http://adamwang.io/2014/creating-a-new-theme/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/creating-a-new-theme/</guid>
+      <guid>http://adamwang.io/2014/creating-a-new-theme/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -1112,10 +1112,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>Migrate to Hugo from Jekyll</title>
-      <link>https://example.com/2014/migrate-from-jekyll/</link>
+      <link>http://adamwang.io/2014/migrate-from-jekyll/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/migrate-from-jekyll/</guid>
+      <guid>http://adamwang.io/2014/migrate-from-jekyll/</guid>
       <description>
 
 &lt;h2 id=&#34;move-static-content-to-static&#34;&gt;Move static content to &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
@@ -1140,7 +1140,7 @@ With Jekyll, something that looked like&lt;/p&gt;
 
 &lt;h2 id=&#34;create-your-hugo-configuration-file&#34;&gt;Create your Hugo configuration file&lt;/h2&gt;
 
-&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;https://example.com/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
+&lt;p&gt;Hugo can read your configuration as JSON, YAML or TOML. Hugo supports parameters custom configuration too. Refer to the &lt;a href=&#34;http://adamwang.io/overview/configuration/&#34;&gt;Hugo configuration documentation&lt;/a&gt; for details.&lt;/p&gt;
 
 &lt;h2 id=&#34;set-your-configuration-publish-folder-to-site&#34;&gt;Set your configuration publish folder to &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
 
@@ -1166,13 +1166,13 @@ git submodule add -b gh-pages git@github.com:your-username/your-repo.git public
 
 &lt;h2 id=&#34;convert-jekyll-templates-to-hugo-templates&#34;&gt;Convert Jekyll templates to Hugo templates&lt;/h2&gt;
 
-&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;https://example.com/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s the bulk of the work right here. The documentation is your friend. You should refer to &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Jekyll&amp;rsquo;s template documentation&lt;/a&gt; if you need to refresh your memory on how you built your blog and &lt;a href=&#34;http://adamwang.io/layout/templates/&#34;&gt;Hugo&amp;rsquo;s template&lt;/a&gt; to learn Hugo&amp;rsquo;s way.&lt;/p&gt;
 
 &lt;p&gt;As a single reference data point, converting my templates for &lt;a href=&#34;http://heyitsalex.net/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;heyitsalex.net&lt;/a&gt; took me no more than a few hours.&lt;/p&gt;
 
 &lt;h2 id=&#34;convert-jekyll-plugins-to-hugo-shortcodes&#34;&gt;Convert Jekyll plugins to Hugo shortcodes&lt;/h2&gt;
 
-&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;https://example.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
+&lt;p&gt;Jekyll has &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;plugins&lt;/a&gt;; Hugo has &lt;a href=&#34;http://adamwang.io/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. It&amp;rsquo;s fairly trivial to do a port.&lt;/p&gt;
 
 &lt;h3 id=&#34;implementation&#34;&gt;Implementation&lt;/h3&gt;
 
@@ -1289,10 +1289,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Firstpost</title>
-      <link>https://example.com/2019/firstpost/</link>
+      <link>http://adamwang.io/2019/firstpost/</link>
       <pubDate>Tue, 16 Apr 2019 16:25:50 +0800</pubDate>
       
-      <guid>https://example.com/2019/firstpost/</guid>
+      <guid>http://adamwang.io/2019/firstpost/</guid>
       <description>&lt;p&gt;我是第一篇博客，用来测试。嘿嘿嘿
 修改一下.a&lt;/p&gt;
 </description>
@@ -1300,10 +1300,10 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     
     <item>
       <title>Création d&#39;un nouveau thème</title>
-      <link>https://example.com/2014/creating-a-new-theme.fr/</link>
+      <link>http://adamwang.io/2014/creating-a-new-theme.fr/</link>
       <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/creating-a-new-theme.fr/</guid>
+      <guid>http://adamwang.io/2014/creating-a-new-theme.fr/</guid>
       <description>
 
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -2443,10 +2443,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>About</title>
-      <link>https://example.com/about/</link>
+      <link>http://adamwang.io/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>http://adamwang.io/about/</guid>
       <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
 
 &lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
@@ -2465,10 +2465,10 @@ $ vi themes/zafta/layouts/_default/single.html
     
     <item>
       <title>(Hu)go Template Primer</title>
-      <link>https://example.com/2014/goisforlovers/</link>
+      <link>http://adamwang.io/2014/goisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/goisforlovers/</guid>
+      <guid>http://adamwang.io/2014/goisforlovers/</guid>
       <description>
 
 &lt;p&gt;Hugo uses the excellent &lt;a href=&#34;https://golang.org/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;Go&lt;/a&gt; &lt;a href=&#34;https://golang.org/pkg/html/template/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;html/template&lt;/a&gt; library for
@@ -2527,7 +2527,7 @@ functions.&lt;/p&gt;
 &lt;p&gt;Each Go template has a struct (object) made available to it. In hugo each
 template is passed either a page or a node struct depending on which type of
 page you are rendering. More details are available on the
-&lt;a href=&#34;https://example.com/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
+&lt;a href=&#34;http://adamwang.io/layout/variables&#34;&gt;variables&lt;/a&gt; page.&lt;/p&gt;
 
 &lt;p&gt;A variable is accessed by referencing the variable name.&lt;/p&gt;
 
@@ -2544,7 +2544,7 @@ page you are rendering. More details are available on the
 
 &lt;p&gt;Go template ship with a few functions which provide basic functionality. The Go
 template system also provides a mechanism for applications to extend the
-available functions with their own. &lt;a href=&#34;https://example.com/layout/functions&#34;&gt;Hugo template
+available functions with their own. &lt;a href=&#34;http://adamwang.io/layout/functions&#34;&gt;Hugo template
 functions&lt;/a&gt; provide some additional functionality we believe
 are useful for building websites. Functions are called by using their name
 followed by the required parameters separated by spaces. Template
@@ -2732,7 +2732,7 @@ you want to inside of your templates.&lt;/p&gt;
 &lt;h2 id=&#34;using-content-page-parameters&#34;&gt;Using Content (page) Parameters&lt;/h2&gt;
 
 &lt;p&gt;In each piece of content you can provide variables to be used by the
-templates. This happens in the &lt;a href=&#34;https://example.com/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
+templates. This happens in the &lt;a href=&#34;http://adamwang.io/content/front-matter&#34;&gt;front matter&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;An example of this is used in this documentation site. Most of the pages
 benefit from having the table of contents provided. Sometimes the TOC just
@@ -2811,10 +2811,10 @@ so, such as in this example:&lt;/p&gt;
     
     <item>
       <title>Débuter avec Hugo</title>
-      <link>https://example.com/2014/hugoisforlovers.fr/</link>
+      <link>http://adamwang.io/2014/hugoisforlovers.fr/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/hugoisforlovers.fr/</guid>
+      <guid>http://adamwang.io/2014/hugoisforlovers.fr/</guid>
       <description>&lt;h2 id=&#34;étape-1-installer-hugo&#34;&gt;Étape 1. Installer Hugo&lt;/h2&gt;
 
 &lt;p&gt;Allez sur la page de téléchargements de
@@ -2825,7 +2825,7 @@ appropriée à votre système d&amp;rsquo;exploitation et votre architecture.&lt
 l&amp;rsquo;étape suivante.&lt;/p&gt;
 
 &lt;p&gt;Des informations plus complètes sont disponibles sur la page
-&lt;a href=&#34;https://example.com/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://adamwang.io/overview/installing/&#34;&gt;installing hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;étape-2-compilez-la-documentation&#34;&gt;Étape 2. Compilez la documentation&lt;/h2&gt;
 
@@ -2907,10 +2907,10 @@ créativité fluide sans avoir à attendre de longues compilations.&lt;/p&gt;
     
     <item>
       <title>Getting Started with Hugo</title>
-      <link>https://example.com/2014/hugoisforlovers/</link>
+      <link>http://adamwang.io/2014/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/hugoisforlovers/</guid>
+      <guid>http://adamwang.io/2014/hugoisforlovers/</guid>
       <description>
 
 &lt;h2 id=&#34;step-1-install-hugo&#34;&gt;Step 1. Install Hugo&lt;/h2&gt;
@@ -2994,10 +2994,10 @@ Having nearly instant feedback enables you to have your creativity flow without 
     
     <item>
       <title>Introduction aux modèles (Hu)go</title>
-      <link>https://example.com/2014/goisforlovers.fr/</link>
+      <link>http://adamwang.io/2014/goisforlovers.fr/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/goisforlovers.fr/</guid>
+      <guid>http://adamwang.io/2014/goisforlovers.fr/</guid>
       <description>
 
 &lt;p&gt;Hugo utilise l&amp;rsquo;excellente librairie &lt;a href=&#34;http://golang.org/&amp;gt;&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;go&lt;/a&gt; &lt;a href=&#34;http://golang.org/pkg/html/template/&amp;gt;&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;html/template&lt;/a&gt; pour
@@ -3057,7 +3057,7 @@ fonctions.&lt;/p&gt;
 &lt;p&gt;Chaque modèle go a une structure (objet) mis à sa disposition. Avec Hugo, à
 chaque modèle est passé soit une page, soit une structure de nœud, suivant quel
 type de page vous rendez. Plus de détails sont disponibles sur la page des
-&lt;a href=&#34;https://example.com/layout/variables&#34;&gt;variables&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://adamwang.io/layout/variables&#34;&gt;variables&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Une variable est accessible par son nom.&lt;/p&gt;
 
@@ -3075,7 +3075,7 @@ type de page vous rendez. Plus de détails sont disponibles sur la page des
 &lt;p&gt;Go templace est livré avec quelques fonctions qui fournissent des
 fonctionnalités basiques. Le système de Go template fourni également un
 mécanisme permettant aux applications d&amp;rsquo;étendre les fonctions disponible. Les
-&lt;a href=&#34;https://example.com/layout/functions&#34;&gt;fonctions de modèle Hugo&lt;/a&gt; fourni quelques fonctionnalités
+&lt;a href=&#34;http://adamwang.io/layout/functions&#34;&gt;fonctions de modèle Hugo&lt;/a&gt; fourni quelques fonctionnalités
 supplémentaires que nous espérons qu&amp;rsquo;elles seront utiles pour vos sites web.
 Les functions sont appelées en utilisant leur nom suivi par les paramètres
 requis séparés par des espaces. Des fonctions de modèles ne peuvent pas être
@@ -3270,7 +3270,7 @@ dans votre modèle.&lt;/p&gt;
 
 &lt;p&gt;Dans chaque partie du contenu, vous pouvez fournir des variables pour être
 utilisées par le modèle. Cela se passe dans la
-&lt;a href=&#34;https://example.com/content/front-matter&#34;&gt;section liminaire&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&#34;http://adamwang.io/content/front-matter&#34;&gt;section liminaire&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;Un exemple de cela est utilisé par ce site de documentation. La plupart des
 pages bénéficient de la présentation de la table des matières. Quelques fois,
@@ -3349,10 +3349,10 @@ page, vous pouvez le faire comme dans l&amp;rsquo;exemple suivant :&lt;/p&gt;
     
     <item>
       <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>https://example.com/2014/migrate-from-jekyll.fr/</link>
+      <link>http://adamwang.io/2014/migrate-from-jekyll.fr/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/migrate-from-jekyll.fr/</guid>
+      <guid>http://adamwang.io/2014/migrate-from-jekyll.fr/</guid>
       <description>&lt;h2 id=&#34;déplacez-le-contenu-statique-vers-static&#34;&gt;Déplacez le contenu statique vers &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll a une règle comme quoi tout répertoire qui ne commence pas par &lt;code&gt;_&lt;/code&gt; sera
@@ -3380,7 +3380,7 @@ le répertoire &lt;code&gt;static&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;Hugo peut lire votre fichier de configuration au format JSON, YAML et TOML. Hugo
 supporte également les paramètres de configuration. Plus d&amp;rsquo;informations sur la
-&lt;a href=&#34;https://example.com/overview/configuration/&#34;&gt;documentation de configuration Hugo&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;http://adamwang.io/overview/configuration/&#34;&gt;documentation de configuration Hugo&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&#34;définiez-votre-répertoire-de-publication-sur-site&#34;&gt;Définiez votre répertoire de publication sur &lt;code&gt;_site&lt;/code&gt;&lt;/h2&gt;
 
@@ -3415,7 +3415,7 @@ lieu de &lt;code&gt;public&lt;/code&gt;.&lt;/p&gt;
 
 &lt;p&gt;C&amp;rsquo;est la majeure partie du travail. La documentation est votre ami.
 Vous devriez vous référer à &lt;a href=&#34;http://jekyllrb.com/docs/templates/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;la documentation des thèmes de Jekyll&lt;/a&gt; si vous devez vous rafraîchir la mémoire
-sur la façon dont vous avez construit votre blog et &lt;a href=&#34;https://example.com/layout/templates/&#34;&gt;les thèmes de Hugo&lt;/a&gt; pour apprendre la manière de faire sur Hugo.&lt;/p&gt;
+sur la façon dont vous avez construit votre blog et &lt;a href=&#34;http://adamwang.io/layout/templates/&#34;&gt;les thèmes de Hugo&lt;/a&gt; pour apprendre la manière de faire sur Hugo.&lt;/p&gt;
 
 &lt;p&gt;Pour vous donner un point de référence, la conversion du thème pour
 &lt;a href=&#34;http://heyitsalex.net/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;heyitsalex.net&lt;/a&gt; ne m&amp;rsquo;a pris que quelques heures.&lt;/p&gt;
@@ -3423,7 +3423,7 @@ sur la façon dont vous avez construit votre blog et &lt;a href=&#34;https://exa
 &lt;h2 id=&#34;convertir-les-extensions-jekyll-vers-des-shortcodes-hugo&#34;&gt;Convertir les extensions Jekyll vers des shortcodes Hugo&lt;/h2&gt;
 
 &lt;p&gt;Jekyll support les &lt;a href=&#34;http://jekyllrb.com/docs/plugins/&#34; rel=&#34;nofollow noreferrer&#34; target=&#34;_blank&#34;&gt;extensions&lt;/a&gt;; Hugo lui a
-les &lt;a href=&#34;https://example.com/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. C&amp;rsquo;est assez banal les porter.&lt;/p&gt;
+les &lt;a href=&#34;http://adamwang.io/doc/shortcodes/&#34;&gt;shortcodes&lt;/a&gt;. C&amp;rsquo;est assez banal les porter.&lt;/p&gt;
 
 &lt;h3 id=&#34;implémentation&#34;&gt;Implémentation&lt;/h3&gt;
 

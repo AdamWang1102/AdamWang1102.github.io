@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jekyll on KeepIt</title>
-    <link>https://example.com/categories/jekyll/</link>
-    <description>Recent content in Jekyll on KeepIt</description>
+    <title>Jekyll on Adam&#39;s blogg</title>
+    <link>http://adamwang.io/categories/jekyll/</link>
+    <description>Recent content in Jekyll on Adam&#39;s blogg</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 10 Mar 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://adamwang.io/categories/jekyll/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Migrer vers Hugo depuis Jekyll</title>
-      <link>https://example.com/2014/migrate-from-jekyll.fr/</link>
+      <link>http://adamwang.io/2014/migrate-from-jekyll.fr/</link>
       <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2014/migrate-from-jekyll.fr/</guid>
+      <guid>http://adamwang.io/2014/migrate-from-jekyll.fr/</guid>
       <description>&lt;h2 id=&#34;déplacez-le-contenu-statique-vers-static&#34;&gt;Déplacez le contenu statique vers &lt;code&gt;static&lt;/code&gt;&lt;/h2&gt;
 
 &lt;p&gt;Jekyll a une règle comme quoi tout répertoire qui ne commence pas par &lt;code&gt;_&lt;/code&gt; sera
