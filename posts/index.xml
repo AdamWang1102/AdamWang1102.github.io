@@ -1687,17 +1687,17 @@ you are reading right now.</p>
 </ol>
 
 <p>Corresponding pseudo commands:</p>
-
-<pre><code>git clone https://github.com/spf13/hugo
-cd hugo
-/path/to/where/you/installed/hugo server --source=./docs
-&gt; 29 pages created
-&gt; 0 tags index created
-&gt; in 27 ms
-&gt; Web Server is available at http://localhost:1313
-&gt; Press ctrl+c to stop
-</code></pre>
-
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-shell" data-lang="shell">    git clone https://github.com/spf13/hugo
+    cd hugo
+    /path/to/where/you/installed/hugo server --source<span style="color:#f92672">=</span>./docs
+    &gt; <span style="color:#ae81ff">29</span> pages created
+    &gt; <span style="color:#ae81ff">0</span> tags index created
+    &gt; in <span style="color:#ae81ff">27</span> ms
+    &gt; Web Server is available at http://localhost:1313
+    &gt; Press ctrl+c to stop</code></pre></div><div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-objectivec" data-lang="objectivec">CGRect frame <span style="color:#f92672">=</span> [(UIView <span style="color:#f92672">*</span>)self frame];
+    [(UIView <span style="color:#f92672">*</span>)self setFrame:CGRectMake(CGRectGetMinX(frame), CGRectGetMinY(frame), CGRectGetWidth(frame), <span style="color:#ae81ff">0.1</span>)];
+    [(UIView <span style="color:#f92672">*</span>)self setClipsToBounds:YES];
+    [[(UIView <span style="color:#f92672">*</span>)self layer]setCornerRadius:<span style="color:#ae81ff">20</span>];</code></pre></div>
 <p>Once you&rsquo;ve gotten here, follow along the rest of this page on your local build.</p>
 
 <h2 id="step-3-change-the-docs-site">Step 3. Change the docs site</h2>
