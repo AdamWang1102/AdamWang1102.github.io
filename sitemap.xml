@@ -42,6 +42,18 @@
     </url>
   
     <url>
+      <loc>http://adamwang.io/categories/</loc>
+      
+      <lastmod>2019-04-17T15:30:32+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>http://adamwang.io/posts/</loc>
       
       <lastmod>2019-04-17T15:30:32+08:00</lastmod>
@@ -68,7 +80,31 @@
     </url>
   
     <url>
+      <loc>http://adamwang.io/categories/ttt/</loc>
+      
+      <lastmod>2019-04-17T15:30:32+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>http://adamwang.io/tags/</loc>
+      
+      <lastmod>2019-04-17T13:01:50+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://adamwang.io/categories/development/</loc>
       
       <lastmod>2019-04-17T13:01:50+08:00</lastmod>
       
@@ -107,6 +143,18 @@
   
     <url>
       <loc>http://adamwang.io/tags/tools/</loc>
+      
+      <lastmod>2019-04-17T13:01:50+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://adamwang.io/categories/golang/</loc>
       
       <lastmod>2019-04-17T13:01:50+08:00</lastmod>
       
@@ -210,18 +258,6 @@
     </url>
   
     <url>
-      <loc>http://adamwang.io/categories/</loc>
-      
-      <lastmod>2014-09-28T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>http://adamwang.io/2014/creating-a-new-theme.fr/</loc>
       
       <lastmod>2014-09-28T00:00:00+00:00</lastmod>
@@ -271,18 +307,6 @@
       
       
       <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://adamwang.io/categories/development/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
@@ -355,18 +379,6 @@
   
     <url>
       <loc>http://adamwang.io/tags/go/</loc>
-      
-      <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://adamwang.io/categories/golang/</loc>
       
       <lastmod>2014-04-02T00:00:00+00:00</lastmod>
       
