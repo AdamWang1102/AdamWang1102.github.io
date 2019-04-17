@@ -66,6 +66,18 @@
     </url>
   
     <url>
+      <loc>http://adamwang.io/categories/ttt/</loc>
+      
+      <lastmod>2019-04-17T15:30:32+08:00</lastmod>
+      
+      
+      
+      <priority>0</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>http://adamwang.io/2019/second/</loc>
       
       <lastmod>2019-04-17T15:30:32+08:00</lastmod>
@@ -75,18 +87,6 @@
       
       
       <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>http://adamwang.io/categories/ttt/</loc>
-      
-      <lastmod>2019-04-17T15:30:32+08:00</lastmod>
-      
-      
-      
-      <priority>0</priority>
       
       
     </url>
