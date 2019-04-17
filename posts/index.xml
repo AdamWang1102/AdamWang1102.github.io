@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Adam&#39;s blogg</title>
+    <title>Posts on Adam&#39;s blog</title>
     <link>http://adamwang.io/posts/</link>
-    <description>Recent content in Posts on Adam&#39;s blogg</description>
+    <description>Recent content in Posts on Adam&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2019 16:25:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 13:01:50 +0800</lastBuildDate>
     
 	<atom:link href="http://adamwang.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
@@ -33,12 +33,24 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
+      <title>Hugo笔记</title>
+      <link>http://adamwang.io/2019/hugo%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 17 Apr 2019 13:01:50 +0800</pubDate>
+      
+      <guid>http://adamwang.io/2019/hugo%E7%AC%94%E8%AE%B0/</guid>
+      <description> Hugo笔记 hugo -d path //部署 hugo server //启动 hugo server --disableFastRender //关闭快速渲染模式启动.  </description>
+    </item>
+    
+    <item>
       <title>Firstpost</title>
       <link>http://adamwang.io/2019/firstpost/</link>
       <pubDate>Tue, 16 Apr 2019 16:25:50 +0800</pubDate>
       
       <guid>http://adamwang.io/2019/firstpost/</guid>
-      <description>我是第一篇博客，用来测试。嘿嘿嘿 修改一下.a</description>
+      <description>我是第一篇博客，用来测试。嘿嘿
+CGRect frame = [(UIView *)self frame]; [(UIView *)self setFrame:CGRectMake(CGRectGetMinX(frame), CGRectGetMinY(frame), CGRectGetWidth(frame), 0.1)]; [(UIView *)self setClipsToBounds:YES]; [[(UIView *)self layer]setCornerRadius:20];   我是一个引用.
+嘿嘿嘿
+  1 2 3   </description>
     </item>
     
     <item>

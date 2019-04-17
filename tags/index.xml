@@ -1,27 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam&#39;s blogg</title>
+    <title>Tags on Adam&#39;s blog</title>
     <link>http://adamwang.io/tags/</link>
-    <description>Recent content on Adam&#39;s blogg</description>
+    <description>Recent content in Tags on Adam&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2019 16:25:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 13:01:50 +0800</lastBuildDate>
     
 	<atom:link href="http://adamwang.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Firstpost</title>
-      <link>http://adamwang.io/2019/firstpost/</link>
-      <pubDate>Tue, 16 Apr 2019 16:25:50 +0800</pubDate>
+      <title></title>
+      <link>http://adamwang.io/tags/</link>
+      <pubDate>Wed, 17 Apr 2019 13:01:50 +0800</pubDate>
       
-      <guid>http://adamwang.io/2019/firstpost/</guid>
-      <description>我是第一篇博客，用来测试。嘿嘿嘿 修改一下.a</description>
+      <guid>http://adamwang.io/tags/</guid>
+      <description></description>
     </item>
     
-  </channel>
-</rss>ink>
+    <item>
+      <title>Tools</title>
+      <link>http://adamwang.io/tags/tools/</link>
+      <pubDate>Wed, 17 Apr 2019 13:01:50 +0800</pubDate>
+      
+      <guid>http://adamwang.io/tags/tools/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>http://adamwang.io/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>http://adamwang.io/tags/development/</guid>

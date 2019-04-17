@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Adam&#39;s blogg on Adam&#39;s blogg</title>
+    <title>Adam&#39;s blog on Adam&#39;s blog</title>
     <link>http://adamwang.io/</link>
-    <description>Recent content in Adam&#39;s blogg on Adam&#39;s blogg</description>
+    <description>Recent content in Adam&#39;s blog on Adam&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Apr 2019 16:25:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 17 Apr 2019 13:01:50 +0800</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
@@ -26,7 +26,7 @@
 
 &lt;p&gt;Here&amp;rsquo;s an example:&lt;/p&gt;
 
-&lt;pre&gt;&lt;code&gt;## this is a comment
+&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;## this is a comment
 $ echo this is a command
 this is a command
 
@@ -1288,13 +1288,48 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
+      <title>Hugo笔记</title>
+      <link>http://adamwang.io/2019/hugo%E7%AC%94%E8%AE%B0/</link>
+      <pubDate>Wed, 17 Apr 2019 13:01:50 +0800</pubDate>
+      
+      <guid>http://adamwang.io/2019/hugo%E7%AC%94%E8%AE%B0/</guid>
+      <description>
+
+&lt;h1 id=&#34;hugo笔记&#34;&gt;Hugo笔记&lt;/h1&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-shell&#34;&gt;hugo -d path //部署
+hugo server //启动
+hugo server --disableFastRender //关闭快速渲染模式启动.
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Firstpost</title>
       <link>http://adamwang.io/2019/firstpost/</link>
       <pubDate>Tue, 16 Apr 2019 16:25:50 +0800</pubDate>
       
       <guid>http://adamwang.io/2019/firstpost/</guid>
-      <description>&lt;p&gt;我是第一篇博客，用来测试。嘿嘿嘿
-修改一下.a&lt;/p&gt;
+      <description>&lt;p&gt;我是第一篇博客，用来测试。嘿嘿&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-objc&#34;&gt;CGRect frame = [(UIView *)self frame];
+[(UIView *)self setFrame:CGRectMake(CGRectGetMinX(frame), CGRectGetMinY(frame), CGRectGetWidth(frame), 0.1)];
+[(UIView *)self setClipsToBounds:YES];
+[[(UIView *)self layer]setCornerRadius:20];
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;我是一个引用.&lt;/p&gt;
+
+&lt;p&gt;嘿嘿嘿&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+&lt;li&gt;1&lt;/li&gt;
+&lt;li&gt;2&lt;/li&gt;
+&lt;li&gt;3&lt;/li&gt;
+&lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
