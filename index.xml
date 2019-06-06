@@ -1288,14 +1288,19 @@ Liquid::Template.register_tag(&#39;image&#39;, Jekyll::ImageTag)
     </item>
     
     <item>
-      <title>图片测试</title>
+      <title>OpenGL学习笔记</title>
       <link>http://adamwang.io/2019/second/</link>
       <pubDate>Wed, 17 Apr 2019 15:30:32 +0800</pubDate>
       
       <guid>http://adamwang.io/2019/second/</guid>
-      <description>&lt;p&gt;测试一些图片&lt;/p&gt;
+      <description>&lt;ul&gt;
+&lt;li&gt;OpenGL坐标系
 
-&lt;p&gt;&lt;img src=&#34;https://ws2.sinaimg.cn/large/006tNc79ly1g25tp4zhbmj30hs0nx76w.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OpenGL ES坐标系
+&lt;img src=&#34;media/15559321732282.jpg&#34; alt=&#34;&#34; /&gt;&lt;/li&gt;
+&lt;/ol&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </description>
     </item>
     
